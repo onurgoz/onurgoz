@@ -1,7 +1,7 @@
 ### Who am i
 - Software engineering student in Manisa Celal Bayar University.
 <p align="center">
- <a href="https://github.com/onurgoz"><img title="Onurgoz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgoz&layout=compact"></a><br>
+ <a href="https://github.com/onurgoz"><img title="Onurgoz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgoz&layout=compact&theme=dark"></a><br>
 </p>
 
 ### My Projects
@@ -18,6 +18,6 @@
 
 ### Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurgoz&&show_icons=true&theme=radical&line_height=27&v=5" alt="Onurgoz's GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=onurgoz&&show_icons=true&theme=dark&line_height=27&v=5" alt="Onurgoz's GitHub Stats" /><br>
  
 </p>
