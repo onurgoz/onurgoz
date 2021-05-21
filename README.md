@@ -3,6 +3,7 @@
 <p align="center">
  <a href="https://github.com/onurgoz"><img title="Onurgoz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgoz&layout=compact"></a><br>
 </p>
+
 ### My Projects
 <p align="center">
   <a href="https://github.com/onurgoz/TangramApp"><img title="TangramApp" src="https://github-readme-stats.vercel.app/api/pin/?username=onurgoz&repo=TangramApp&theme=dark"></a>
