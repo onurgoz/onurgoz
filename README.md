@@ -8,8 +8,15 @@ Software engineering student in Manisa Celal Bayar University.
 <h1>Contact</h1>
 
 
-<a href="https://www.linkedin.com/in/onurgoz/"><img title="Linkedin" src="https://i.hizliresim.com/4dhsc2e.png" width=20></a>
-<a href="mailto:onurgoz98@gmail.com"><img title="Linkedin" src="https://img.shields.io/badge/-onurgoz98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onurgoz98@gmail.com"></a>
+<a href="https://www.linkedin.com/in/onurgoz/"><img title="Linkedin" src="https://img.shields.io/badge/-Linkedin-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onurgoz"></a>
+<a href="mailto:onurgoz98@gmail.com">
+<img title="Gmail" 
+src="https://img.shields.io/badge/-onurgoz98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onurgoz98@gmail.com">
+</a>
+ <a href="www.onurgoz.tech">
+<img title="Portfolio" 
+src="https://img.shields.io/badge/-www.onurgoz.tech-c14438?style=flat-square&logo=&logoColor=white&link=www.onurgoz.tech">
+
 
 
  <h1>Status</h1>
