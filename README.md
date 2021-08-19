@@ -13,9 +13,8 @@ Software engineering student in Manisa Celal Bayar University.
 <img title="Gmail" 
 src="https://img.shields.io/badge/-onurgoz98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onurgoz98@gmail.com">
 </a>
- <a href="www.onurgoz.com">
-<img title="Portfolio" 
-src="https://img.shields.io/badge/-www.onurgoz.com-c14438?style=flat-square&logo=&logoColor=white&link=www.onurgoz.com">
+ <a href="https://www.onurgoz.com">
+<img title="Portfolio" src="https://img.shields.io/badge/-www.onurgoz.com-c14438?style=flat-square&logo=&logoColor=white&link=www.onurgoz.com">
 
 
 
