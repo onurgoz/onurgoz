@@ -15,7 +15,7 @@ src="https://img.shields.io/badge/-onurgoz98@gmail.com-c14438?style=flat-square&
 </a>
  <a href="www.onurgoz.tech">
 <img title="Portfolio" 
-src="https://img.shields.io/badge/-www.onurgoz.tech-c14438?style=flat-square&logo=&logoColor=white&link=www.onurgoz.tech">
+src="https://img.shields.io/badge/-www.onurgoz.com-c14438?style=flat-square&logo=&logoColor=white&link=www.onurgoz.com">
 
 
 
