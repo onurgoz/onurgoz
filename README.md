@@ -19,5 +19,4 @@ src="https://img.shields.io/badge/-onurgoz98@gmail.com-c14438?style=flat-square&
  <p align="center">
  <a href="https://github.com/onurgoz"><img title="Onurgoz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgoz&layout=compact&theme=dark"></a><br>
 </p>
-[<div  align="center"> <img src="https://github.com/onurgoz/onurgoz/blob/output/github-contribution-grid-snake.gif" /></div>](url)
 </div>
